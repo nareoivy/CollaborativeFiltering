@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>基于用户的协同过滤推荐算法</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ml-data_0</name>
+			<type>2</type>
+			<location>C:/Users/nq/Desktop/temp/Web信息技术/ml-data_0</location>
+		</link>
+	</linkedResources>
+</projectDescription>
